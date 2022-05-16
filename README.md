@@ -11,7 +11,7 @@ C:\Program Files\Snipaste\Snipaste.exe
 C:\Program Files\LANDrop\LANDrop.exe
 ```
 - Start the program then press button `Yes` to confirm, the programs will be started soon! 
-- Press the button `C` to edit the program list. 
+- Press the button `S` to edit the program list. 
 - Press the button `A` to see the copyright. 
 - Press the button `L` to change language. Now English and Chinese are translated. 
 - You can move the `EXE` file to the startup path to let it start when you turned on your PC. 
