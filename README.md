@@ -5,7 +5,7 @@
 - Change the autostart program list on your own. 
 - Small & Portable. 
 ## Instruction
-- Paste the whole path into the file `Autorun.txt`. 
+- Paste the whole path into the file `Autorun.txt`. For example: 
 ```
 C:\Program Files\Snipaste\Snipaste.exe
 C:\Program Files\LANDrop\LANDrop.exe
