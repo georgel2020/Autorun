@@ -14,7 +14,7 @@ C:\Program Files\LANDrop\LANDrop.exe
 - Press the button `S` to edit the program list. 
 - Press the button `A` to see the copyright. 
 - Press the button `L` to change language. Now English and Chinese are translated. 
-- You can move the `EXE` file to the startup path to let it start when you turned on your PC. 
+- You can setup a file shortcut of the `EXE` file to the startup path to let it start when you turned on your PC. 
 ## Screenshot
 ![image](https://user-images.githubusercontent.com/86717650/168565193-a8f80175-d7aa-4962-bbb8-218da2f210d9.png)
 ## Copyright
