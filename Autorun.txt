@@ -1,0 +1,3 @@
+D:\Program Files\Snipaste\Snipaste.exe
+D:\Program Files\LANDrop\LANDrop.exe
+C:\Program Files\PowerToys\PowerToys.exe
