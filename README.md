@@ -2,7 +2,7 @@
 > A **small** and **portable** program to help you start **specific programs**. 
 ## Features
 - Automatically start all programs you want. 
-- Change the autostart program list on your own. 
+- Change the autostart program list by yourself. 
 - Small & Portable. 
 ## Instruction
 - Paste the whole path into the file `Autorun.txt`. For example: 
