@@ -1,5 +1,5 @@
 # Autorun
-[中文](https://github.com/georgel2020/Autorun/blob/main/README-CN.md) [English](https://github.com/georgel2020/Autorun/blob/main/README.md)
+**[中文](https://github.com/georgel2020/Autorun/blob/main/README-CN.md) [English](https://github.com/georgel2020/Autorun/blob/main/README.md)**
 > 一个**小巧便携**的应用程序，它帮助你打开你**指定的程序**。
 ## 特点
 - 自动打开所有指定的应用程序。数量不限。
