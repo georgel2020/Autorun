@@ -1,5 +1,5 @@
 # Autorun
-[中文](https://github.com/georgel2020/Autorun/blob/main/README-CN.md) [English](https://github.com/georgel2020/Autorun/blob/main/README.md)
+**[中文](https://github.com/georgel2020/Autorun/blob/main/README-CN.md) [English](https://github.com/georgel2020/Autorun/blob/main/README.md)**
 > A **small** and **portable** program to help you start **specific programs**. 
 ## Features
 - Automatically start all programs you want. 
